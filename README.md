@@ -7,9 +7,9 @@ A hand consists of cards dealt from one or more decks.
 
 In this project, the blackjack game uses 6 decks of cards. The value of the cards are:
 
--Cards 2-10 are worth their face value (e.g. a 2 of hearts is worth 2 points)
--Face cards (Jack, Queen, and King) are worth 10 points each
--An Ace can be worth either 1 or 11 points, depending on which value would be more beneficial for the player.
+- Cards 2-10 are worth their face value (e.g. a 2 of hearts is worth 2 points)
+- Face cards (Jack, Queen, and King) are worth 10 points each
+- An Ace can be worth either 1 or 11 points, depending on which value would be more beneficial for the player.
 
 ## Payoff Ratio
 The payoff ratio for a blackjack game is typically 3:2, meaning that if a player wins with a blackjack (an Ace and a 10-point card), they are paid out at a rate of 3 to 2. In this project, the payoff ratio is also 3:2.
